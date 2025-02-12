@@ -1,5 +1,5 @@
 # Actividad Casos de uso 6.1
-
+## Código plantuml
 ```
 @startuml
 :Cliente: as C
