@@ -1,6 +1,6 @@
 # Actividad Casos de uso 6.1
 
-'''
+```
 @startuml
 :Cliente: as C
 (validarse) as va
@@ -25,7 +25,7 @@ ld ..> ht : extend
 ld ..> ri : extend
 
 @enduml
-'''
+```
 
 ## Detalles
 
