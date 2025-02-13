@@ -34,22 +34,18 @@ ld ..> ri : extend
 - **Sistema:** Cajero
 - **Descripción:** El cliente debe autenticarse para realizar cualquier operación en el cajero.
 
-##### Caso 2 -> Validación 
+##### Caso 2 -> Sacar dinero 
 - **Actor:** Cliente
 - **Sistema:** Cajero
-- **Descripción:**
+- **Descripción:** El cliente puede sacar dinero de su cuenta. A menos que, no tenga saldo o supere el límite diario.
 
-##### Caso 3 -> Validación 
+##### Caso 3 -> Transferencia 
 - **Actor:** Cliente
 - **Sistema:** Cajero
-- **Descripción:**
+- **Descripción:** El cliente puede hacer una transferencia a otra cuenta. 
 
-##### Caso 4 -> Validación 
+##### Caso 4 -> Realizar ingreso
 - **Actor:** Cliente
 - **Sistema:** Cajero
-- **Descripción:**
+- **Descripción:** El cliente puede hacer un ingreso a través del cajero.
 
-##### Caso 5 -> Validación 
-- **Actor:** Cliente
-- **Sistema:** Cajero
-- **Descripción:**
